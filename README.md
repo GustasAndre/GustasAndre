@@ -8,11 +8,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Gustavo André's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Gustavo André's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustasAndre&show_icons=true&theme=radical)
 
 ## 🚀 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustasAndre&layout=compact&theme=radical)
 
 🔧 Algumas das minhas habilidades e ferramentas:
 - **Python**, **Pandas**, **NumPy**
