@@ -1,8 +1,8 @@
 # Olá, eu sou o Gustavo André! 👋
 
-🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** Previsão de conclusão Dez/2024 e **Sistemas de Informação**, com previsão de conclusão em Dez de 2026.
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e cursando Pós Graduação em ** Engenahria de Machine Learning**
 
-💻 Me especializando em **Ciência de Dados** pela escola DNC, desenvolvendo habilidades em análise de dados, visualização , modelagem preditiva, modelagem de dados e modelos de Machine Learning.
+💻 Especialista em **Ciência de Dados** pela escola DNC com habilidades em análise de dados, visualização , modelagem preditiva, modelagem de dados e modelos de Machine Learning.
 
 📊 Apaixonado por transformar dados em insights e soluções práticas, explorando linguagens como **Python**, **SQL** , **POWER BI** , **Excel Avançado** , **Principais Bibliotecas para ML** , **BIG DATA** e ferramentas como **Jupyter Notebook** para criar projetos impactantes.
 
