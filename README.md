@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo André! 👋
 
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e cursando Pós Graduação em ** Engenahria de Machine Learning**
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e cursando Pós Graduação em **Engenharia de Machine Learning**
 
 💻 Especialista em **Ciência de Dados** pela escola DNC com habilidades em análise de dados, visualização , modelagem preditiva, modelagem de dados e modelos de Machine Learning.
 
